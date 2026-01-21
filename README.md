@@ -12,7 +12,7 @@ Currently open to **remote contractual opportunities** (US/EU/Global) where I ca
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `Terragrunt` `CloudFormation` |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `CloudFormation` |
 | **Container Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) `Amazon EKS` `Helm` |
 | **DevSecOps & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) `Trivy` `OIDC` `SonarQube` |
 | **AIOps & Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) `CloudWatch` `AWS Lambda` `DevOps Guru` `SNS` |
@@ -57,7 +57,7 @@ Currently open to **remote contractual opportunities** (US/EU/Global) where I ca
 
 ## 📬 Connect
 
-<a href="https://linkedin.com/in/abhisheksingh22se">
+<a href="https://linkedin.com/in/abhisheksingh22sep">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:abhisheksingh22se@gmail.com">
