@@ -29,7 +29,7 @@ I build resilient systems by applying distinct disciplines to every layer of the
 
 ## 📂 Engineering Portfolio
 
-### 🤖 [Self-Healing EKS Remediation Engine](https://github.com/abhisheksingh22se/self-healing-eks-remediation)
+### 🤖 [Self-Healing EKS Remediation Engine](https://github.com/abhisheksingh22se/automation-lambda-aiops-remediator)
 > **The AIOps Engine.** *(Flagship Project)*
 > An event-driven framework that automates incident response for Kubernetes.
 > * **Stack:** AWS Lambda, EventBridge, CloudWatch Anomaly Detection, Python.
@@ -41,7 +41,7 @@ I build resilient systems by applying distinct disciplines to every layer of the
 > * **Stack:** Terraform, AWS EKS, VPC, IAM Roles (IRSA).
 > * **Security:** Implements least-privilege access and private subnet isolation to enforce security best practices.
 
-### 🛡️ [DevSecOps CI/CD Pipeline (FastAPI Microservice)](https://github.com/abhisheksingh22se/devsecops-trivy-github-actions)
+### 🛡️ [DevSecOps CI/CD Pipeline](https://github.com/abhisheksingh22se/devsecops-trivy-github-actions)
 > **The Security Gate.**
 > A secure CI/CD pipeline that blocks deployments if vulnerabilities are detected.
 > * **Stack:** GitHub Actions, Trivy, Snyk, Docker, OIDC.
@@ -75,7 +75,7 @@ I build resilient systems by applying distinct disciplines to every layer of the
 | Degree / Certification | Institution | Focus Area |
 | :--- | :--- | :--- |
 | **MS in Computer Science** | **Troy University, Alabama, USA** | Cybersecurity & Secure Systems |
-| **Adv. Certification in Data Science** | **IIIT Bangalore, India** | Machine Learning, Predictive Analytics |
+| **Adv. Certification in Data Science** | **IIIT, Bangalore, India** | Machine Learning, Predictive Analytics |
 | **Bachelor of Science (Electronics)** | **Central University, Bilaspur, India** | Hardware Logic & Circuitry |
 
 ### 🌱 Continuous Learning (Certification Roadmap)
