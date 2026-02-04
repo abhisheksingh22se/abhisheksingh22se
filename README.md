@@ -86,14 +86,6 @@ I am actively upskilling to validate my expertise in Orchestration and Operation
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh22se&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhishek's GitHub Stats" />
-</p>
-
----
-
 ## 📬 Connect
 
 <a href="https://www.linkedin.com/in/abhisheksingh22sep">
