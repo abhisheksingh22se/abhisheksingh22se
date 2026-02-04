@@ -89,11 +89,11 @@ I am actively upskilling to validate my expertise in Orchestration and Operation
 ## 📬 Connect
 
 <a href="https://www.linkedin.com/in/abhisheksingh22sep">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:abhisheksingh22se@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://abhishek-ops.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
 </a>
